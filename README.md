@@ -91,4 +91,4 @@
 - **Yearly Trend of Net Sales, Gross Margin %, Net Profit % and PC Market Share %** using a Line and Clustered Colmun Chart.
 - ![Executive View](https://github.com/BhavanaMallipeddi/BI-360/blob/main/Executive_view.png)
 
-- ## live Interactive BI-360 Power BI Dashboard ![live Interactive Power BI Dasboard](https://app.powerbi.com/view?r=eyJrIjoiMGM0ZjE5YmEtNjE0Mi00N2UxLWI1YjQtYzRlY2NmZDkxZmY5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- ## live Interactive BI-360 Power BI Dashboard [live Interactive Power BI Dasboard](https://app.powerbi.com/view?r=eyJrIjoiMGM0ZjE5YmEtNjE0Mi00N2UxLWI1YjQtYzRlY2NmZDkxZmY5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
