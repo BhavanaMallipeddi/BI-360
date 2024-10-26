@@ -2,12 +2,14 @@
 # Business-Insights-360
 
 ## Live Dashboard: _[Business Insights 360](https://app.powerbi.com/groups/me/reports/170e8b00-2a50-4c43-a46f-7860c29b654f/ReportSection6502fc9f96e0822188ba?experience=power-bi)_
+![Business Insights 360](https://app.powerbi.com/groups/me/reports/170e8b00-2a50-4c43-a46f-7860c29b654f/ReportSection6502fc9f96e0822188ba?experience=power-bi)
 ## Home Page :
 
 
 - **View objective:** 
 
     **1.** Created a _[Home Page](https://github.com/BhavanaMallipeddi/BI-360/blob/main/Home%20Page.png)_ for the user to navigate to different Views in the Dashboard.
+  ![Home Page](https://github.com/BhavanaMallipeddi/BI-360/blob/main/Home%20Page.png)
 
     **2.** The Images have navigation to their respective Views.
 
@@ -29,6 +31,7 @@
 - **Profit & Loss Statement** A summary of a company's revenues, expenses, and profits/losses over a given period of time.
 
 - **Top/Bottom Customers by Net Sales:** The two lower visuals give the insights about the Top & Bottom Customers and Products according to their Net Sales contribution.
+- ![Finance View](https://github.com/BhavanaMallipeddi/BI-360/blob/main/finance%20view.png)
 
 ## Sales View :
 
@@ -43,6 +46,7 @@
 - **Performance Matrix:** Scatter Plot showing the distribution of Customers according to Gross Margin % and Net Sales. Customers in the Top Right quadrant are having High Gross Margin % and High Net Sales.
 
 - **Key Metrics by Products:** Donut Charts showing important metrics(Net Sales, Total Post Invoice Deductions, Pre Invoice Deductions, COGS, Gross Margin) Distribution for the specific fiscal year.
+- ![Sales View](https://github.com/BhavanaMallipeddi/BI-360/blob/main/sales_view.png)
 
 ## Marketing View :
 
@@ -57,6 +61,7 @@
 - **Performance Matrix with Dual Filters:** Scatter Plot showing the distribution of Customers according to **Gross Margin %** or **Net Profit %** & **Net Sales**. Customers in the Top Right quadrant are very Profitable.
 
 - **Unit Economics:** Insights about the Individual customer's breakdown of Key Metrics(COGS and Gross Margin) in a Donut Chart, and about the Net Profit made after Operational Expenses using a Waterfall chart.
+- ![Marketing View](https://github.com/BhavanaMallipeddi/BI-360/blob/main/marketing_view.png)
 
 ## Supply Chain View :
 
@@ -69,6 +74,7 @@
 - **Accuracy/Net Error Trend:** Monthly Distribution of Net Error and Forecast Accuracy (cuurent and last year) using a Line and Clustered Column Chart.
 
 - **Key Metrics by Products:** Distribution of Key metrics based on products for the Supply Chain Team.
+- ![Supply Chain View](https://github.com/BhavanaMallipeddi/BI-360/blob/main/sales_view.png)
 
 ## Executive View :
 
@@ -83,3 +89,4 @@
 - **Key Insights by Subzone**
 
 - **Yearly Trend of Net Sales, Gross Margin %, Net Profit % and PC Market Share %** using a Line and Clustered Colmun Chart.
+- ![Executive View](https://github.com/BhavanaMallipeddi/BI-360/blob/main/Executive_view.png)
